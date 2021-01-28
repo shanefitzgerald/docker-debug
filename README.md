@@ -2,7 +2,7 @@
 
 1. open in Visual Studio Code
 2. select debugger
-3. attach to process (make sure Docker Node.js is selected) wait for it to attach.
+3. attach to process (make sure Docker Node.js is selected) wait for it to attach.  This will run all docker commands so it may take a bit.
 4. run 
 ```bash
 docker ps
