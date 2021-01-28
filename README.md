@@ -18,7 +18,5 @@ docker ps
 curl -i localhost:55002
 ```
 
-It should break on the break point.  Hope this helps!!
-
-Shane
+Hopefully it breaks :fingerscrossed:
 
